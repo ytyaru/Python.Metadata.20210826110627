@@ -1,0 +1,24 @@
+${description}
+
+${url}
+
+${license_name}
+${license_url}
+
+${since}
+${copyright}
+
+${author_name}
+${author_sites}
+
+Sub commands:
+  m meta metadata
+  d desc description
+  h help
+  v version
+  u url
+  l license
+  c copyright
+  s since
+  a author
+
