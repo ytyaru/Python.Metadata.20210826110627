@@ -12,13 +12,18 @@ ${author_name}
 ${author_sites}
 
 Sub commands:
-  m meta metadata
-  d desc description
   h help
-  v version
-  u url
-  l license
-  c copyright
-  s since
-  a author
-
+    u usage
+    p parameters
+    e examples
+  m meta metadata
+    u url
+    l license
+    c copyright
+    s since
+    a author
+  commons
+    v version
+    d desc description
+    f features
+    n notes
